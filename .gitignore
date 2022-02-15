@@ -1,3 +1,5 @@
 /.project
+/.jekyll-cache
+/_site
 /.settings
 *.sublime*
