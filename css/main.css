@@ -235,10 +235,14 @@
   
   .publication-list {
     padding-left: 15px;
+	padding-left: 0;
   }
   
   .publication-list li {
     margin-bottom: 20px;
+	list-style-type: none;
+	padding-left: 0;
+	margin-left: 0;
   }
 
   
@@ -269,3 +273,4 @@
   padding-right:0;
   padding-left:0;
 }
+
